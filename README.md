@@ -70,5 +70,10 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </div>
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
 ###
 

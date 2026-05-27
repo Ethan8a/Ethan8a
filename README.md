@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=500&color=B68A1E&width=500&lines=Hola%2C+soy+Ethan+%F0%9F%91%8B;Desarrollador+Android+%26+IA;Construyendo+Hipermeta+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=500&color=B68A1E&width=500&lines=Hola%2C+soy+Ethan+%F0%9F%91%8B;Desarrollador+Android+%26+IA;8vo+semestre+ISC" alt="Typing SVG" />
 </a>
 </div>
 
@@ -8,12 +8,12 @@
 
 # 💫 Sobre mí
 
-🔭 **Actualmente trabajando en:** [Hipermeta](https://github.com/Ethan8a) — app Android de fitness y nutrición con IA, construida de forma íntegra y autónoma. En beta abierta con testers reales. Presentada en InnovaTecNM 2026 (ITSTB).<br>
-<br>👯 **Busco colaborar en:** Proyectos Android, desarrollo móvil o cualquier cosa que involucre Kotlin, Firebase e integración de IA en apps.<br>
-<br>🤝 **Me gustaría aprender sobre:** Jetpack Compose (migrando desde layouts XML), pruebas unitarias con JUnit/Espresso y pipelines CI/CD para Android.<br>
-<br>🌱 **Aprendiendo actualmente:** Jetpack Compose, patrones avanzados de MVVM y profundizando en integraciones de Google Gemini AI para aplicaciones móviles.<br>
-<br>💬 **Pregúntame sobre:** Desarrollo Android con Kotlin, integrar Gemini AI en apps móviles, Firebase Auth, Supabase como backend, o cómo construir un feed social con RecyclerView y DiffUtil.<br>
-<br>⚡ **Dato curioso:** Empecé programando con HTML/CSS/JavaScript, pero me enamoré del desarrollo Android y terminé construyendo una app full-stack con más de 15 módulos — completamente solo, mientras estudiaba la carrera.
+🔭 **En qué estoy trabajando:** Hipermeta, una app Android de fitness que empecé como proyecto personal y terminó siendo presentada en InnovaTecNM 2026. Le fui agregando cosas — rutinas con IA, feed social, dietas, nutriólogos — y se fue de las manos (para bien).<br>
+<br>👯 **Con qué me gustaría colaborar:** Proyectos Android o móvil en general. No tengo experiencia laboral formal todavía, pero tengo código real que mostrar y muchas ganas de aprender en equipo.<br>
+<br>🤝 **En qué necesito ayuda:** Jetpack Compose (migrar desde XML me está costando), hacer pruebas unitarias como se debe, y entender cómo deployar apps de forma profesional.<br>
+<br>🌱 **Qué estoy aprendiendo:** Jetpack Compose, mejorar mis patrones de arquitectura y no meter toda la lógica en el Activity (trabajo en progreso 😅).<br>
+<br>💬 **Pregúntame sobre:** Cómo arrancar con Android en Kotlin, integrar Gemini AI en una app, usar Firebase o Supabase de backend, o simplemente cómo sobrevivir el 8vo semestre.<br>
+<br>⚡ **Dato curioso:** Empecé aprendiendo HTML y CSS pensando que haría páginas web, y terminé construyendo una app con feed social, inteligencia artificial y modelo de negocio. La vida da muchas vueltas.
 
 <br clear="both">
 
@@ -23,18 +23,20 @@
 
 ---
 
-## 🚀 Proyecto Destacado — Hipermeta
+## 🚀 Proyecto Principal — Hipermeta
 
-> App Android de fitness y nutrición con IA · Beta Abierta · InnovaTecNM 2026
+> App Android de fitness y nutrición con IA · Beta con amigos y testers · Presentada en InnovaTecNM 2026
 
-| Módulo | Descripción |
+Empezó como un proyecto para la escuela y terminó siendo algo que de verdad uso y que otras personas están probando. Todavía le falta pulir cosas, pero funciona.
+
+| Módulo | Qué hace |
 |---|---|
-| 🤖 **Rutinas con IA** | Google Gemini 2.5 Flash genera planes de entrenamiento personalizados según IMC, edad, equipo disponible y lesiones |
-| 🥗 **Dieta con IA** | Planes completos con macros, recetas, preparación paso a paso e imágenes reales via TheMealDB API |
-| 📱 **Feed Social** | Feed estilo Instagram con likes, comentarios, historias y RecyclerView optimizado con DiffUtil |
-| 📸 **Body Scan** | Google Gemini Vision estima la composición corporal a partir de una foto |
-| 🗺️ **Directorio de Nutriólogos** | Nutriólogos certificados (cédula SEP) con llamadas, WhatsApp y Google Maps |
-| 🔐 **Autenticación** | Firebase Auth (correo/contraseña + Google Sign-In) + Supabase PostgreSQL |
+| 🤖 **Rutinas con IA** | Google Gemini genera planes según tu IMC, edad, equipo disponible y lesiones |
+| 🥗 **Dieta con IA** | Plan completo con macros, recetas e imágenes reales via TheMealDB API |
+| 📱 **Feed Social** | Publicaciones, likes, comentarios e historias — todo con RecyclerView y DiffUtil |
+| 📸 **Body Scan** | Gemini Vision analiza una foto y estima tu composición corporal |
+| 🗺️ **Nutriólogos** | Directorio con cédula SEP, llamadas, WhatsApp y ubicación en Maps |
+| 🔐 **Login** | Firebase Auth con correo y Google Sign-In |
 
 **Stack:** `Kotlin` `MVVM` `Coroutines` `Firebase` `Supabase` `Google Gemini AI` `Room` `Material Design 3`
 

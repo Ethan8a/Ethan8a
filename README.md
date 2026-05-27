@@ -1,19 +1,19 @@
 <div align="center">
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=500&color=B68A1E&width=500&lines=Hi%2C+I'm+Ethan+%F0%9F%91%8B;Android+%26+AI+Developer;Building+Hipermeta+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=500&color=B68A1E&width=500&lines=Hola%2C+soy+Ethan+%F0%9F%91%8B;Desarrollador+Android+%26+IA;Construyendo+Hipermeta+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 </div>
 
 <br>
 
-# 💫 About Me
+# 💫 Sobre mí
 
-🔭 **I'm currently working on:** [Hipermeta](https://github.com/Ethan8a) — a full-stack Android fitness & nutrition app powered by Google Gemini AI. Currently in open beta with real testers. Presented at InnovaTecNM 2026 (ITSTB).<br>
-<br>👯 **I'm looking to collaborate on:** Android projects, mobile app development, or anything involving Kotlin, Firebase, and AI integrations in mobile.<br>
-<br>🤝 **I'm looking for help with:** Jetpack Compose (transitioning from XML layouts), unit testing with JUnit/Espresso, and CI/CD pipelines for Android.<br>
-<br>🌱 **I'm currently learning:** Jetpack Compose, advanced MVVM patterns, and deepening my knowledge of Google Gemini AI for mobile applications.<br>
-<br>💬 **Ask me about:** Android development with Kotlin, integrating Gemini AI into mobile apps, Firebase Auth & Supabase as a backend, or building Instagram-style feeds with RecyclerView & DiffUtil.<br>
-<br>⚡ **Fun fact:** I started programming with HTML/CSS/JavaScript, but fell in love with Android development and ended up building a full-stack app with 15+ modules — entirely on my own, while still in college.
+🔭 **Actualmente trabajando en:** [Hipermeta](https://github.com/Ethan8a) — app Android de fitness y nutrición con IA, construida de forma íntegra y autónoma. En beta abierta con testers reales. Presentada en InnovaTecNM 2026 (ITSTB).<br>
+<br>👯 **Busco colaborar en:** Proyectos Android, desarrollo móvil o cualquier cosa que involucre Kotlin, Firebase e integración de IA en apps.<br>
+<br>🤝 **Me gustaría aprender sobre:** Jetpack Compose (migrando desde layouts XML), pruebas unitarias con JUnit/Espresso y pipelines CI/CD para Android.<br>
+<br>🌱 **Aprendiendo actualmente:** Jetpack Compose, patrones avanzados de MVVM y profundizando en integraciones de Google Gemini AI para aplicaciones móviles.<br>
+<br>💬 **Pregúntame sobre:** Desarrollo Android con Kotlin, integrar Gemini AI en apps móviles, Firebase Auth, Supabase como backend, o cómo construir un feed social con RecyclerView y DiffUtil.<br>
+<br>⚡ **Dato curioso:** Empecé programando con HTML/CSS/JavaScript, pero me enamoré del desarrollo Android y terminé construyendo una app full-stack con más de 15 módulos — completamente solo, mientras estudiaba la carrera.
 
 <br clear="both">
 
@@ -23,24 +23,24 @@
 
 ---
 
-## 🚀 Featured Project — Hipermeta
+## 🚀 Proyecto Destacado — Hipermeta
 
-> Android fitness & nutrition app with AI · Open Beta · InnovaTecNM 2026
+> App Android de fitness y nutrición con IA · Beta Abierta · InnovaTecNM 2026
 
-| Feature | Description |
+| Módulo | Descripción |
 |---|---|
-| 🤖 **AI Routines** | Google Gemini 2.5 Flash generates personalized workout plans based on BMI, age, equipment & injuries |
-| 🥗 **AI Diet Planner** | Full meal plans with macros, recipes, prep steps & real food images via TheMealDB API |
-| 📱 **Social Feed** | Instagram-style feed with likes, comments, stories & DiffUtil-powered RecyclerView |
-| 📸 **Body Scan** | Google Gemini Vision estimates body composition from a photo |
-| 🗺️ **Nutritionist Directory** | Verified nutritionists (SEP cédula) with calls, WhatsApp & Google Maps |
-| 🔐 **Auth** | Firebase Auth (email/password + Google Sign-In) + Supabase PostgreSQL |
+| 🤖 **Rutinas con IA** | Google Gemini 2.5 Flash genera planes de entrenamiento personalizados según IMC, edad, equipo disponible y lesiones |
+| 🥗 **Dieta con IA** | Planes completos con macros, recetas, preparación paso a paso e imágenes reales via TheMealDB API |
+| 📱 **Feed Social** | Feed estilo Instagram con likes, comentarios, historias y RecyclerView optimizado con DiffUtil |
+| 📸 **Body Scan** | Google Gemini Vision estima la composición corporal a partir de una foto |
+| 🗺️ **Directorio de Nutriólogos** | Nutriólogos certificados (cédula SEP) con llamadas, WhatsApp y Google Maps |
+| 🔐 **Autenticación** | Firebase Auth (correo/contraseña + Google Sign-In) + Supabase PostgreSQL |
 
 **Stack:** `Kotlin` `MVVM` `Coroutines` `Firebase` `Supabase` `Google Gemini AI` `Room` `Material Design 3`
 
 ---
 
-## 🌐 Socials
+## 🌐 Redes
 
 <div align="left">
   <a href="https://instagram.com/ethan_8a" target="_blank">
@@ -56,9 +56,9 @@
 
 ---
 
-## 💻 Tech Stack
+## 💻 Stack Tecnológico
 
-**Languages**
+**Lenguajes**
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="32" alt="Kotlin" title="Kotlin" />
@@ -74,14 +74,14 @@
 
 <br>
 
-**Mobile & Architecture**
+**Móvil y Arquitectura**
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="32" alt="Android" title="Android" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="32" alt="Android Studio" title="Android Studio" />
   <img width="10" />
-  <img src="https://img.shields.io/badge/MVVM-Architecture-B68A1E?style=flat-square&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/MVVM-Arquitectura-B68A1E?style=flat-square&logoColor=white" height="28" />
   <img width="4" />
   <img src="https://img.shields.io/badge/Jetpack-Coroutines%20%7C%20Room%20%7C%20DiffUtil-4CAF50?style=flat-square&logoColor=white" height="28" />
   <img width="4" />
@@ -90,7 +90,7 @@
 
 <br>
 
-**Backend & Cloud**
+**Backend y Cloud**
 
 <div align="left">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="28" />
@@ -101,7 +101,7 @@
 
 <br>
 
-**AI & APIs**
+**IA y APIs**
 
 <div align="left">
   <img src="https://img.shields.io/badge/Google%20Gemini%20AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height="28" />
@@ -111,7 +111,7 @@
 
 <br>
 
-**Tools**
+**Herramientas**
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" title="Git" />
@@ -123,7 +123,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estadísticas de GitHub
 
 <div align="center">
 

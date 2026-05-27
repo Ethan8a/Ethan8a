@@ -45,13 +45,10 @@ Empezó como un proyecto para la escuela y terminó siendo algo que de verdad us
 ## 🌐 Redes
 
 <div align="left">
-  <a href="https://instagram.com/ethan_8a" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram" />
-  </a>
   <a href="mailto:carbajaldaniel450@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/ethan-ochoa-2a6443341" target="_blank">
+  <a href="https://www.linkedin.com/in/ethan-daniel-ochoa-carbajal-2a6443341" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin" />
   </a>
 </div>
